@@ -2,6 +2,7 @@ package org.hammerlab.bam.check
 
 import java.lang.System.setProperty
 
+import org.hammerlab.bam.kryo.Registrar
 import org.hammerlab.spark.test.suite.SparkConfBase
 import org.hammerlab.test.Suite
 import org.hammerlab.test.resources.File
@@ -11,6 +12,12 @@ class MainTest
     with SparkConfBase {
 
   setProperty("spark.driver.allowMultipleContexts", "true")
+
+  // Register this class as its own KryoRegistrator
+  setProperty("spark.kryo.registrator", classOf[Registrar].getCanonicalName)
+  setProperty("spark.serializer", "org.apache.spark.serializer.KryoSerializer")
+  setProperty("spark.kryo.referenceTracking", "false")
+  setProperty("spark.kryo.registrationRequired", "true")
 
   setSparkProps()
 
