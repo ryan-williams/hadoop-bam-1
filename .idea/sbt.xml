@@ -23,7 +23,6 @@
             <option value="$PROJECT_DIR$/test_bams/project" />
           </set>
         </option>
-        <option name="remoteDebugPort" value="" />
         <option name="resolveSbtClassifiers" value="true" />
         <option name="sbtVersion" value="0.13.13" />
       </SbtProjectSettings>
