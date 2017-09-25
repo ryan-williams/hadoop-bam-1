@@ -8,8 +8,6 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/benchmarks" />
-            <option value="$PROJECT_DIR$/benchmarks/project" />
             <option value="$PROJECT_DIR$/bgzf" />
             <option value="$PROJECT_DIR$/bgzf/project" />
             <option value="$PROJECT_DIR$/check" />

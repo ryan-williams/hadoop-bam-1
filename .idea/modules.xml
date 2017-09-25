@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/benchmarks.iml" filepath="$PROJECT_DIR$/.idea/modules/benchmarks.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/benchmarks-build.iml" filepath="$PROJECT_DIR$/.idea/modules/benchmarks-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bgzf.iml" filepath="$PROJECT_DIR$/.idea/modules/bgzf.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/bgzf-build.iml" filepath="$PROJECT_DIR$/.idea/modules/bgzf-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/check.iml" filepath="$PROJECT_DIR$/.idea/modules/check.iml" />
