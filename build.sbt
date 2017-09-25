@@ -159,4 +159,4 @@ lazy val test_bams = project.settings(
   testDeps := Nil
 )
 
-lazy val benchmarks = project.settings().dependsOn()
+lazy val benchmarks = project.settings().dependsOn(cli)
