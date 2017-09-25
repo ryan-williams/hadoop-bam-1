@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="jdk" value="1.8 (1)" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/bgzf" />
+            <option value="$PROJECT_DIR$/bgzf/project" />
+            <option value="$PROJECT_DIR$/check" />
+            <option value="$PROJECT_DIR$/check/project" />
+            <option value="$PROJECT_DIR$/cli" />
+            <option value="$PROJECT_DIR$/cli/project" />
+            <option value="$PROJECT_DIR$/load" />
+            <option value="$PROJECT_DIR$/load/project" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/seqdoop" />
+            <option value="$PROJECT_DIR$/seqdoop/project" />
+            <option value="$PROJECT_DIR$/test_bams" />
+            <option value="$PROJECT_DIR$/test_bams/project" />
+          </set>
+        </option>
+        <option name="remoteDebugPort" value="" />
+        <option name="resolveSbtClassifiers" value="true" />
+        <option name="sbtVersion" value="0.13.13" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

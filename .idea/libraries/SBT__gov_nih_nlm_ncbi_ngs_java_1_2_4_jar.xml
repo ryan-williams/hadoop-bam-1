@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: gov.nih.nlm.ncbi:ngs-java:1.2.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/gov.nih.nlm.ncbi/ngs-java/jars/ngs-java-1.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/gov.nih.nlm.ncbi/ngs-java/srcs/ngs-java-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

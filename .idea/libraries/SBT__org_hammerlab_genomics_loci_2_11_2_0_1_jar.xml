@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.hammerlab.genomics:loci_2.11:2.0.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.hammerlab.genomics/loci_2.11/jars/loci_2.11-2.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.hammerlab.genomics/loci_2.11/srcs/loci_2.11-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

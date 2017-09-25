@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bgzf.iml" filepath="$PROJECT_DIR$/.idea/modules/bgzf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bgzf-build.iml" filepath="$PROJECT_DIR$/.idea/modules/bgzf-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/check.iml" filepath="$PROJECT_DIR$/.idea/modules/check.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/check-build.iml" filepath="$PROJECT_DIR$/.idea/modules/check-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cli.iml" filepath="$PROJECT_DIR$/.idea/modules/cli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cli-build.iml" filepath="$PROJECT_DIR$/.idea/modules/cli-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/load.iml" filepath="$PROJECT_DIR$/.idea/modules/load.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/load-build.iml" filepath="$PROJECT_DIR$/.idea/modules/load-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seqdoop.iml" filepath="$PROJECT_DIR$/.idea/modules/seqdoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/seqdoop-build.iml" filepath="$PROJECT_DIR$/.idea/modules/seqdoop-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-bam.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-bam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-bam-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-bam-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_bams.iml" filepath="$PROJECT_DIR$/.idea/modules/test_bams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_bams-build.iml" filepath="$PROJECT_DIR$/.idea/modules/test_bams-build.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.hammerlab:bytes_2.11:1.0.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.hammerlab/bytes_2.11/jars/bytes_2.11-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.hammerlab/bytes_2.11/srcs/bytes_2.11-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
