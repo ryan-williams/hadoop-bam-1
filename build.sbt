@@ -158,3 +158,5 @@ lazy val test_bams = project.settings(
   ),
   testDeps := Nil
 )
+
+lazy val benchmarks = project.settings(deps += guava % "11.0.2")
