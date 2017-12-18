@@ -31,7 +31,7 @@ case class Checker(path: Path,
   val guesser =
     new BAMPosGuesser(
       ss,
-      contigLengths.size
+      contigLengths
     )
 
   override def apply(pos: Pos): Boolean =

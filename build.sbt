@@ -6,7 +6,7 @@ val defaults = Seq(
                    bytes → "1.1.0"           ,
                 case_cli → "2.2.0"           ,
                  channel → "1.3.0"           ,
-    hammerlab_hadoop_bam → "7.9.0"           ,
+    hammerlab_hadoop_bam → "7.9.1-SNAPSHOT"  ,
                 io_utils → "4.0.0"           ,
                iterators → "2.0.0"           ,
                     loci → "2.0.1"           ,
